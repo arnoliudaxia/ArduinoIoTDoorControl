@@ -2,15 +2,15 @@
 
 # Doc
 
-lab/livereport 是设备回报topic
+- lab/livereport 是设备回报topic
 
-lab/cmd 命令下发topic
+- lab/cmd 命令下发topic
 
-opendoor命令
+  - opendoor命令
 
-a1:[int]
-
-a2:[int]
+    - a1:[int]
+  
+    - a2 :[int]
 
 
 ## TODO
