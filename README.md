@@ -11,6 +11,7 @@
     - a1:[int]
   
     - a2 :[int]
+  - isalive? 命令，会在lab/livereport回报i am alive
 
 # Usage
 
